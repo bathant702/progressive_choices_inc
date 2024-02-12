@@ -1,0 +1,17 @@
+* {
+  /* testing boxes */
+  border: 1px;
+  border-color: green;
+  border-style: solid;
+  /* height & width now includes border & padding */
+  box-sizing: border-box;
+}
+
+.pci-banner1 {
+  height: 30vh;
+  width: 100vw;
+}
+
+.pci-hq {
+  width: 30vw;
+}
