@@ -12,6 +12,10 @@
   width: 100vw;
 }
 
+.menu-item {
+  height: 10vh;
+}
+
 .pci-hq {
   width: 30vw;
 }
