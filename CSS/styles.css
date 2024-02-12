@@ -7,6 +7,11 @@
   box-sizing: border-box;
 }
 
+body {
+  margin: 1%;
+  justify-content: center;
+}
+
 .pci-banner1 {
   height: 30vh;
   width: 100vw;
@@ -18,4 +23,16 @@
 
 .pci-hq {
   width: 30vw;
+}
+
+.quote-bg {
+  background-color: black;
+  height: 80vh;
+  width: 100vw;
+}
+
+.quote-text {
+  margin: 1rem 1rem;
+  font-size: 2.75rem;
+  color: white;
 }
